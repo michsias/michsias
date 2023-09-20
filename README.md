@@ -27,15 +27,15 @@ I’m currently learning **HTML + CSS + JAVASCRIPT**
 
 ## Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,c++,bootstrap,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,bootstrap,jquery,github,git,)
 
 ### Other skills
 
-![My Skills](https://skillicons.dev/icons?i=arduinoide,fusin360,easyeda,kicad,)
+![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,arduino,octave,md,)
 
 ## Want to learn
 
-![My Skills](https://skillicons.dev/icons?i=typescript,python,react,reactnative,django,node.js,)
+![My Skills](https://skillicons.dev/icons?i=ts,py,react,reactivex,angular,django,node.js,nextjs,mysql,mongodb,)
 
 
 ## Some stats
