@@ -27,25 +27,25 @@ I’m currently learning **HTML + CSS + JAVASCRIPT**
 
 ## Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,bootstrap,jquery,github,git,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp,vscode,github,git,)
 
 ### Other skills
 
-![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,arduino,octave,md,)
+![My Skills](https://skillicons.dev/icons?i=md,arduino,raspberrypi,octave)
 
 ## Want to learn
 
-![My Skills](https://skillicons.dev/icons?i=ts,py,react,reactivex,angular,django,node.js,nextjs,mysql,mongodb,)
+![My Skills](https://skillicons.dev/icons?i=ts,react,reactivex,nodejs,py,django,angular,mysql,mongodb,)
 
 
 ## Some stats
 
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michsias&show_icons=true&locale=en&layout=compact" alt="michsias" 
-/></span>
+></span>
 
 <span>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias" /></span>
+<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias"></span>
 
 <p> 
 <img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> 
