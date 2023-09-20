@@ -1,3 +1,117 @@
+[![Hi, I am Michał](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=004AFF&width=435&lines=Hi%2C+I+am+Micha%C5%82)](https://git.io/typing-svg)
+
+## About me
+
+- I study mechatronics [5. term - part-time]
+- I work as an electronics engineer 
+- I train muay thai 
+
+I’m currently learning **HTML + CSS + JAVASCRIPT**
+
+## Contact 
+
+<img src="png/linkedin.png" alt="linkedin" /> 
+<a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
+<br>
+
+<img src="png/facebook.png" alt="facebook" /> 
+<a href="https://www.facebook.com/michsias/"> facebook.com/michsias </a>
+<br>
+
+<img src="png/email.png" alt="email" /> 
+<a href="mailto:mkawczak00@gmail.com"> mkawczak00@gmail.com </a>
+<br>
+
+<img src="png/discord.png" alt="discord" /> 
+<a> #michsias  </a>
+
+## Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,c++,bootstrap,)
+
+### Other skills
+
+![My Skills](https://skillicons.dev/icons?i=arduinoide,fusin360,easyeda,kicad,)
+
+## Want to learn
+
+![My Skills](https://skillicons.dev/icons?i=typescript,python,react,reactnative,django,node.js,)
+
+
+## Some stats
+
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=michsias&show_icons=true&locale=en&layout=compact" alt="michsias" 
+/></span>
+
+<span>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias" /></span>
+
+<p> 
+<img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> 
+</p>
+
+
+
+
+
+
+
+
+
+<!-- 
+
+<a href="https://linkedin.com/in/michał-kawczak-279372279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kawczak-279372279" height="30" width="40" /></a>
+<a href="https://fb.com/michalkawczak14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michalkawczak14" height="30" width="40" /></a>
+<a href="https://instagram.com/michsias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michsias" height="30" width="40" /></a>
+<a href="https://discord.gg/#7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7438" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> </p>
 
@@ -24,4 +138,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> </p> -->
