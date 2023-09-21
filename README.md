@@ -16,15 +16,27 @@ I’m currently learning <span> HTML + CSS + JAVASCRIPT** </span>
 
 ## Contact 
 
-<div align="center"> 
-    <img src="png/linkedin.png" alt="linkedin" /> <a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
-</div>
+<p style="dispaly: flex; align-items: center;"> 
+    <img src="png/linkedin.png" alt="linkedin" /> 
+    <a style="mragin-left: 25px; font-size 16px;" href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> 
+        in/michal-kawczak/ 
+    </a>
+</p>
 
-<img src="png/facebook.png" alt="facebook" /> <a href="https://www.facebook.com/michsias/"> facebook.com/michsias </a>
+<img src="png/facebook.png" alt="facebook" /> 
+<a style="mrgin-left: 25px; font-size 16px;"  href="https://www.facebook.com/michsias/"> 
+    facebook.com/michsias 
+</a>
 
-<img src="png/email.png" alt="email" /> <a href="mailto:mkawczak00@gmail.com"> mkawczak00@gmail.com </a>
+<img src="png/email.png" alt="email" /> 
+<a style="margin-left: 25px; font-size 16px;" href="mailto:mkawczak00@gmail.com">     
+    mkawczak00@gmail.com 
+</a>
 
-<img src="png/discord.png" alt="discord" /> <a> #michsias  </a>
+<img src="png/discord.png" alt="discord" /> 
+<a style="margin-left: 25px; font-size 16px;"> 
+    #michsias  
+</a>
 
 ## Stack
 
