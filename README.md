@@ -1,3 +1,5 @@
+<img src="png/baner" alt="baner" /> 
+
 [![Hi, I am Michał](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=004AFF&width=435&lines=Hi%2C+I+am+Micha%C5%82)](https://git.io/typing-svg)
 
 ## About me
@@ -6,24 +8,17 @@
 - I work as an electronics engineer 
 - I train muay thai 
 
-I’m currently learning **HTML + CSS + JAVASCRIPT**
+I’m currently learning <span> HTML + CSS + JAVASCRIPT** </span>
 
 ## Contact 
 
-<img src="png/linkedin.png" alt="linkedin" /> 
-<a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
-<br>
+<img src="png/linkedin.png" alt="linkedin" /> <a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
 
-<img src="png/facebook.png" alt="facebook" /> 
-<a href="https://www.facebook.com/michsias/"> facebook.com/michsias </a>
-<br>
+<img src="png/facebook.png" alt="facebook" /> <a href="https://www.facebook.com/michsias/"> facebook.com/michsias </a>
 
-<img src="png/email.png" alt="email" /> 
-<a href="mailto:mkawczak00@gmail.com"> mkawczak00@gmail.com </a>
-<br>
+<img src="png/email.png" alt="email" /> <a href="mailto:mkawczak00@gmail.com"> mkawczak00@gmail.com </a>
 
-<img src="png/discord.png" alt="discord" /> 
-<a> #michsias  </a>
+<img src="png/discord.png" alt="discord" /> <a> #michsias  </a>
 
 ## Stack
 
@@ -40,16 +35,17 @@ I’m currently learning **HTML + CSS + JAVASCRIPT**
 
 ## Some stats
 
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=michsias&show_icons=true&locale=en&layout=compact" alt="michsias" 
-></span>
+![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=algolia)
 
-<span>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias"></span>
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=pie)](https://github.com/michsias/github-readme-stats)
 
-<p> 
+<!-- <span>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias">
+</span>
+
+<span> 
 <img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> 
-</p>
+</span> -->
 
 
 
