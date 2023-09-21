@@ -34,9 +34,10 @@
 
 ## Some stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=compact&bg_color=00000000)](https://github.com/michsias/github-readme-stats)
+
 ![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=compact)
 
 
 
