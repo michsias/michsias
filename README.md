@@ -8,35 +8,17 @@
 
 ## About me
 
-- I study mechatronics [5. term - part-time]
-- I work as an electronics engineer 
-- I train muay thai 
+- 🧠 I study mechatronics [5. term - part-time]
+- ⚡ I work as an electronics engineer 
+- 🤓 I train muay thai 
 
-I’m currently learning <span> HTML + CSS + JAVASCRIPT** </span>
+📕 I’m currently learning  **HTML + CSS + JAVASCRIPT** 
 
 ## Contact 
 
-<p style="dispaly: flex; align-items: center;"> 
-    <img src="png/linkedin.png" alt="linkedin" /> 
-    <a style="mragin-left: 25px; font-size 16px;" href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> 
-        in/michal-kawczak/ 
-    </a>
-</p>
+💻 Website portfolio  [portfolio](https://michsias.pl/)
 
-<img src="png/facebook.png" alt="facebook" /> 
-<a style="mrgin-left: 25px; font-size 16px;"  href="https://www.facebook.com/michsias/"> 
-    facebook.com/michsias 
-</a>
-
-<img src="png/email.png" alt="email" /> 
-<a style="margin-left: 25px; font-size 16px;" href="mailto:mkawczak00@gmail.com">     
-    mkawczak00@gmail.com 
-</a>
-
-<img src="png/discord.png" alt="discord" /> 
-<a style="margin-left: 25px; font-size 16px;"> 
-    #michsias  
-</a>
+📧 Contact [email](mkawczak00@gmail.com)
 
 ## Stack
 
@@ -55,7 +37,7 @@ I’m currently learning <span> HTML + CSS + JAVASCRIPT** </span>
 
 ![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=algolia)
 
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=pie)](https://github.com/michsias/github-readme-stats)
+![[Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=pie)](https://github.com/michsias/github-readme-stats)
 
 <!-- <span>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias">
