@@ -2,6 +2,8 @@
   <img src="png/baner.png" alt="baner" width="100%">
 </div>
 
+<br>
+
 [![Hi, I am Michał](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=004AFF&width=435&lines=Hi%2C+I+am+Micha%C5%82)](https://git.io/typing-svg)
 
 ## About me
@@ -14,7 +16,9 @@ I’m currently learning <span> HTML + CSS + JAVASCRIPT** </span>
 
 ## Contact 
 
-<img src="png/linkedin.png" alt="linkedin" /> <a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
+<div align="center"> 
+    <img src="png/linkedin.png" alt="linkedin" /> <a href="https://www.linkedin.com/in/micha%C5%82-kawczak/"> in/michal-kawczak/ </a>
+</div>
 
 <img src="png/facebook.png" alt="facebook" /> <a href="https://www.facebook.com/michsias/"> facebook.com/michsias </a>
 
