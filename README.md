@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="png/baner.png" alt="baner" width="100%">
-</div>
+<img src="png/baner.png" alt="baner" width="100%">
+
 
 <br>
 
@@ -16,9 +15,9 @@
 
 ## Contact 
 
-💻 Website portfolio  [portfolio](https://michsias.pl/)
+💻 Website [Portfolio](https://michsias.pl/)
 
-📧 Contact [email](mkawczak00@gmail.com)
+📧 Contact [Email](mailto:mkawczak00@gmail.com)
 
 ## Stack
 
@@ -37,15 +36,8 @@
 
 ![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=algolia)
 
-![[Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=pie)](https://github.com/michsias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=pie)](https://github.com/michsias/github-readme-stats)
 
-<!-- <span>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&locale=en" alt="michsias">
-</span>
-
-<span> 
-<img src="https://komarev.com/ghpvc/?username=michsias&label=Profile%20views&color=0e75b6&style=flat" alt="michsias" /> 
-</span> -->
 
 
 
