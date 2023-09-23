@@ -21,7 +21,7 @@
 
 ## Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,c,cpp,vscode,github,git,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,vscode,github,git,)
 
 ### Other skills
 
@@ -29,32 +29,17 @@
 
 ## Want to learn
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,reactivex,nodejs,py,django,angular,mysql,mongodb,)
+![My Skills](https://skillicons.dev/icons?i=jquery,ts,react,reactivex,nodejs,py,django,angular,mysql,mongodb,)
 
 
 ## Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=donut&bg_color=00000000&title_color=ffffff)](https://github.com/michsias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=demo&bg_color=00000000&title_color=ffffff)](https://github.com/michsias/github-readme-stats)
 
 ![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=github_dark)
 
 
 
-
-
-
-
-
-
-
-
-<!-- 
-
-<a href="https://linkedin.com/in/michał-kawczak-279372279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kawczak-279372279" height="30" width="40" /></a>
-<a href="https://fb.com/michalkawczak14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michalkawczak14" height="30" width="40" /></a>
-<a href="https://instagram.com/michsias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michsias" height="30" width="40" /></a>
-<a href="https://discord.gg/#7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7438" height="30" width="40" /></a>
-</p>
 
 
 
