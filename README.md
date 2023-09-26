@@ -13,12 +13,6 @@
 
 📕 I’m currently learning  **HTML + CSS + JAVASCRIPT** 
 
-## Contact 
-
-💻 Website [Portfolio](https://michsias.pl/)
-
-📧 Contact [Email](mailto:mkawczak00@gmail.com)
-
 ## Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,vscode,github,git,)
@@ -31,9 +25,15 @@
 
 ![My Skills](https://skillicons.dev/icons?i=jquery,ts,react,reactivex,nodejs,py,django,angular,mysql,mongodb,)
 
+## Contact 
+
+💻 Website [Portfolio](https://michsias.pl/)
+
+📧 Contact [Email](mailto:mkawczak00@gmail.com)
+
 
 ## Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=demo&bg_color=00000000)](https://github.com/michsias/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michsias&layout=demo&bg_color=00000000)](https://github.com/michsias/github-readme-stats) -->
 
 ![michsias GitHub stats](https://github-readme-stats.vercel.app/api?username=michsias&show_icons=true&theme=github_dark)
